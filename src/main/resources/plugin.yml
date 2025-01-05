@@ -1,0 +1,9 @@
+name: RealTimeFolia
+version: '1.0'
+main: org.titago.realtimeFolia
+api-version: '1.21'
+author: AMapeKiberT
+description: A plugin to sync Minecraft time with real-world time.
+license: AGPL-3.0
+source: https://codeberg.org/titago/realtimeFolia
+folia-supported: true
