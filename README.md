@@ -19,4 +19,4 @@ worlds:
 ```
 
 ## Downloads
-- [Releases](https://codeberg.org/titago/realtimeFolia/releases/latest)
+- [Releases](https://github.com/amapekibert/RealTimeFolia/releases)
