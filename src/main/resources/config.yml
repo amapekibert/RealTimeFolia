@@ -1,1 +1,7 @@
-timezone: GMT-1
+worlds:
+  exampleworld1:
+    timezone: Europe/Kyiv
+  exampleworld2:
+    timezone: UTC
+  exampleworld3:
+    timezone: GMT-5

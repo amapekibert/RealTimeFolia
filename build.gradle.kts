@@ -3,8 +3,8 @@ plugins {
     id("com.github.johnrengelman.shadow") version "8.1.1"
 }
 
-group = "org.titago.realtimeFolia"
-version = "1.0"
+group = "org.titago.RealTimeFolia"
+version = "1.1"
 
 repositories {
     mavenCentral()
@@ -17,10 +17,8 @@ repositories {
 }
 
 dependencies {
-    compileOnly("io.papermc.paper:paper-api:1.21.1-R0.1-SNAPSHOT")
+    compileOnly("io.papermc.paper:paper-api:1.21.11-R0.1-SNAPSHOT")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
-    implementation("com.cjcrafter:foliascheduler:0.6.3")
-
 }
 
 val targetJavaVersion = 21
