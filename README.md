@@ -1,10 +1,10 @@
-# RealTimeFolia
+# RealTime
 Allows you to synchronize GMT time with minecraft time
 
 Requires Java 21. See [here](https://docs.papermc.io/misc/java-install) how to update your installed Java version.
 
 ## Features
-- Supports Folia 1.21.x only
+- Supports Paper/Folia 1.21.x
 - Use ZoneId for sync time
 
 ## Default config.yml
@@ -19,4 +19,4 @@ worlds:
 ```
 
 ## Downloads
-- [Releases](https://github.com/amapekibert/RealTimeFolia/releases)
+- [Releases](https://github.com/amapekibert/RealTime/releases)
